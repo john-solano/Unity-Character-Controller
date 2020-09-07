@@ -20,7 +20,7 @@ Add three new Axes for the Inputs of the Left Thumbstick and A button.
 Go to **Edit --> Project Settings --> Input**, Open the Axis Tab and set the Size to 3 higher than it already is.
 If the Size of Axis is 18, set it to 21.
 
-**These are the settings for the Axes:**
+**These are the settings for the Axes:**<br />
 ![](ReadMeAssets/AxesImage.png)
 
 Your Character will now be able to move and jump using the Left Thumbstick and the A button on your Xbox controller.
