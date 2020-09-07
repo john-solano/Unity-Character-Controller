@@ -20,32 +20,7 @@ Add three new Axes for the Inputs of the Left Thumbstick and A button.
 Go to **Edit --> Project Settings --> Input**, Open the Axis Tab and set the Size to 3 higher than it already is.
 If the Size of Axis is 18, set it to 21.
 
-These are the settings for the Axes
-Name: Jump
-Positive Button: joystick button 0
-Gravity: 1000
-Dead Zone: 0
-Sensitivity: 1000
-Type: Key or Mouse Button
-Axis: X axis
-Joy Num: Get Motion from all Joysticks
-
-Name: LSHorizontal
-Gravity: 0
-Dead Zone: .02
-Sensitivity: 1
-Type: Joystick Axis
-Axis: X axis
-Joy Num: Get Motion from all Joysticks
-
-Name: LSVertical
-Gravity: 0
-Dead Zone: .02
-Sensitivity: 1
-Type: Joystick Axis
-Axis: Y axis
-Joy Num: Get Motion from all Joysticks
-
+**These are the settings for the Axes:**
 ![](ReadMeAssets/AxesImage.png)
 
 Your Character will now be able to move and jump using the Left Thumbstick and the A button on your Xbox controller.
